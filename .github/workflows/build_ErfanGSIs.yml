@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V8.5.16.0.NDDCNED/miui_MIMAX2_V8.5.16.0.NDDCNED_8c5c883e24_7.1.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: a-only
   TZ: Asia/Shanghai
 
 jobs:
